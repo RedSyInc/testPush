@@ -1,50 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <title>Crazino</title>
+<!--  <meta id="viewport" name="viewport"-->
+<!--        content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>-->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
 
-    <link rel="manifest" href="/testPush/manifest.json" />
-    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-    <script>
-        var OneSignal = window.OneSignal || [];
-        OneSignal.push(function() {
-            OneSignal.init({
-                appId: "8c346c2a-3f67-4b78-8af3-6e5cd1c04684",
-            });
-        });
-    </script>
+<!--  <script>-->
+<!--    /**-->
+<!--     * This script will set the 'initial-scale' value on the viewport metatag-->
+<!--     * The scale is used to fit the template on Kindle Fire mobile devices-->
+<!--     * This must be handled in the head of the document because the scale-->
+<!--     * is not affected once the page finishes loading-->
+<!--     */-->
+<!--    var vp = document.getElementById('viewport');-->
 
+<!--    var initialScale = Math.max(screen.width, screen.height) / 1280;-->
 
+<!--    vp.setAttribute('content',-->
+<!--      'width=device-width, initial-scale=1.0, maximum-scale=' + initialScale + ', minimum-scale=' + initialScale);-->
+
+<!--  </script>-->
+  <style>body {
+      margin: 0;
+    }
+    canvas {
+      outline: none;
+    }</style>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@500;600&family=Volkhov:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
-<style>
-    .test {
-        display: inline-block;
-        width: 100px;
-        height: 50px;
-        margin: 20px;
-        background-color: #00aaaf;
-    }
-    .test:focus {
-        background-color: #60bc57;
-    }
-</style>
-<div style="margin: 50px;">
-    <div class="test" tabindex="0"></div>
-</div>
-<div style="margin: 50px;">
-    <div class="test" tabindex="0"></div>
-    <div class="test" tabindex="0"></div>
-</div>
-<div style="margin: 50px;">
-    <div class="test" tabindex="0"></div>
-    <div class="test" tabindex="0"></div>
-    <div class="test" tabindex="0"></div>
-</div>
-<div style="margin: 50px;">
-    <div class="test" tabindex="0"></div>
-    <div class="test" tabindex="0"></div>
-</div>
+<script src="/main.c39d6dcf.js"></script>
 </body>
 </html>

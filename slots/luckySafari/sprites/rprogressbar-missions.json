@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "back-slot-btn",
+	"frame": {"x":385,"y":395,"w":49,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":22},
+	"sourceSize": {"w":49,"h":22}
+},
+{
+	"filename": "mission-claim-bg",
+	"frame": {"x":384,"y":262,"w":94,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":131},
+	"sourceSize": {"w":94,"h":131}
+},
+{
+	"filename": "mission-claim-default",
+	"frame": {"x":1,"y":312,"w":131,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":15,"w":131,"h":117},
+	"sourceSize": {"w":161,"h":140}
+},
+{
+	"filename": "mission-claim-focus",
+	"frame": {"x":317,"y":1,"w":155,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":155,"h":137},
+	"sourceSize": {"w":161,"h":140}
+},
+{
+	"filename": "mission-completed-badge",
+	"frame": {"x":177,"y":203,"w":189,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":94},
+	"sourceSize": {"w":189,"h":94}
+},
+{
+	"filename": "mission-in-progress-bg",
+	"frame": {"x":1,"y":124,"w":94,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":186},
+	"sourceSize": {"w":94,"h":186}
+},
+{
+	"filename": "mission-in-progress-title",
+	"frame": {"x":387,"y":140,"w":62,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":40},
+	"sourceSize": {"w":62,"h":40}
+},
+{
+	"filename": "mission-progress-bar-bg",
+	"frame": {"x":317,"y":140,"w":68,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":60},
+	"sourceSize": {"w":68,"h":60}
+},
+{
+	"filename": "mission-progress-bar",
+	"frame": {"x":368,"y":202,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":58},
+	"sourceSize": {"w":66,"h":58}
+},
+{
+	"filename": "mission-started-title",
+	"frame": {"x":330,"y":395,"w":53,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":26},
+	"sourceSize": {"w":53,"h":26}
+},
+{
+	"filename": "missions-01-top-focus",
+	"frame": {"x":215,"y":1,"w":100,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":200},
+	"sourceSize": {"w":100,"h":200}
+},
+{
+	"filename": "missions-01-top",
+	"frame": {"x":97,"y":124,"w":78,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":78,"h":177},
+	"sourceSize": {"w":100,"h":200}
+},
+{
+	"filename": "progressbar-bg",
+	"frame": {"x":134,"y":351,"w":198,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":42},
+	"sourceSize": {"w":198,"h":42}
+},
+{
+	"filename": "progressbar-frame",
+	"frame": {"x":177,"y":299,"w":205,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":50},
+	"sourceSize": {"w":205,"h":50}
+},
+{
+	"filename": "progressbar",
+	"frame": {"x":134,"y":395,"w":194,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":38},
+	"sourceSize": {"w":194,"h":38}
+},
+{
+	"filename": "tooltip-bg",
+	"frame": {"x":1,"y":1,"w":212,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":121},
+	"sourceSize": {"w":212,"h":122}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rprogressbar-missions.png",
+	"format": "RGBA8888",
+	"size": {"w":479,"h":434},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4e4db65a01da257ba998c6b6349e69cf:87b19c2bd18e7a1fc65d589f4e57dc3a:02827e96ef394a5b1acbab787d2b419c$"
+}
+}

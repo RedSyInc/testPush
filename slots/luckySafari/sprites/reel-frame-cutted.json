@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "reel-bottom",
+	"frame": {"x":1,"y":1,"w":1280,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":227},
+	"sourceSize": {"w":1280,"h":227}
+},
+{
+	"filename": "reel-left",
+	"frame": {"x":1283,"y":1,"w":155,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":375},
+	"sourceSize": {"w":155,"h":375}
+},
+{
+	"filename": "reel-rigth",
+	"frame": {"x":1440,"y":1,"w":108,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":375},
+	"sourceSize": {"w":108,"h":375}
+},
+{
+	"filename": "reel-top",
+	"frame": {"x":1,"y":230,"w":947,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":947,"h":118},
+	"sourceSize": {"w":947,"h":118}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel-frame-cutted.png",
+	"format": "RGBA8888",
+	"size": {"w":1549,"h":377},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d98197f09131a5635151464aa4823fc:bd4445ab1bf3a0e4f8013032fcda4078:5ca58d0525ccf56efd268a55c0d1da80$"
+}
+}

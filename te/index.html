@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="manifest" href="/testPush/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "8c346c2a-3f67-4b78-8af3-6e5cd1c04684",
+            });
+        });
+    </script>
+
+
+</head>
+<body>
+<style>
+    .test {
+        display: inline-block;
+        width: 100px;
+        height: 50px;
+        margin: 20px;
+        background-color: #00aaaf;
+    }
+    .test:focus {
+        background-color: #60bc57;
+    }
+</style>
+<div style="margin: 50px;">
+    <div class="test" tabindex="0"></div>
+</div>
+<div style="margin: 50px;">
+    <div class="test" tabindex="0"></div>
+    <div class="test" tabindex="0"></div>
+</div>
+<div style="margin: 50px;">
+    <div class="test" tabindex="0"></div>
+    <div class="test" tabindex="0"></div>
+    <div class="test" tabindex="0"></div>
+</div>
+<div style="margin: 50px;">
+    <div class="test" tabindex="0"></div>
+    <div class="test" tabindex="0"></div>
+</div>
+</body>
+</html>

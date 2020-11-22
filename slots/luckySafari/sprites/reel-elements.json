@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "free-spins-block",
+	"frame": {"x":171,"y":1,"w":213,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":117},
+	"sourceSize": {"w":213,"h":117}
+},
+{
+	"filename": "logo-wild-safari",
+	"frame": {"x":1,"y":378,"w":388,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":69},
+	"sourceSize": {"w":388,"h":69}
+},
+{
+	"filename": "reel-bg",
+	"frame": {"x":1,"y":1,"w":168,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":375},
+	"sourceSize": {"w":168,"h":375}
+},
+{
+	"filename": "reel-separator",
+	"frame": {"x":391,"y":1,"w":32,"h":398},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":398},
+	"sourceSize": {"w":32,"h":398}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel-elements.png",
+	"format": "RGBA8888",
+	"size": {"w":424,"h":448},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f51f7919abc0d666275bf0a8affd7521:f064e00b8a5c7e622585b0385a0b1d7f:ec81b8e996da4b799763ac8ae904a282$"
+}
+}
